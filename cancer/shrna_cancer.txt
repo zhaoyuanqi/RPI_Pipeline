@@ -1,0 +1,1135 @@
+Input directory specified  /Users/cni/Desktop/eclip/cancer
+Output directory specified  /Users/cni/Desktop/eclip/cancer
+Differential gene files found in  /Users/cni/Desktop/eclip/cancer  directory. These will be used.
+
+Gene  POLDIP2  is found to be cancerous in  1  categories of cancer
+Gene  AK2  is found to be cancerous in  1  categories of cancer
+Gene  SLC4A1  is found to be cancerous in  1  categories of cancer
+Gene  SLC25A5  is found to be cancerous in  1  categories of cancer
+Gene  ACSM3  is found to be cancerous in  1  categories of cancer
+Gene  AP2B1  is found to be cancerous in  1  categories of cancer
+Gene  ELAC2  is found to be cancerous in  1  categories of cancer
+Gene  DNAJC11  is found to be cancerous in  1  categories of cancer
+Gene  MGST1  is found to be cancerous in  1  categories of cancer
+Gene  UQCRC1  is found to be cancerous in  1  categories of cancer
+Gene  LYPLA2  is found to be cancerous in  1  categories of cancer
+Gene  ABHD5  is found to be cancerous in  1  categories of cancer
+Gene  SLC25A39  is found to be cancerous in  1  categories of cancer
+Gene  SLC38A5  is found to be cancerous in  1  categories of cancer
+Gene  PHLDB1  is found to be cancerous in  1  categories of cancer
+Gene  VIM  is found to be cancerous in  1  categories of cancer
+Gene  ANK1  is found to be cancerous in  1  categories of cancer
+Gene  SARS1  is not found to be cancerous
+Gene  RNF19A  is not found to be cancerous
+Gene  DSG2  is found to be cancerous in  1  categories of cancer
+Gene  TPR  is found to be cancerous in  1  categories of cancer
+Gene  WWC3  is found to be cancerous in  1  categories of cancer
+Gene  LETMD1  is found to be cancerous in  1  categories of cancer
+Gene  HERPUD1  is found to be cancerous in  1  categories of cancer
+Gene  MSMO1  is not found to be cancerous
+Gene  ARID4B  is found to be cancerous in  1  categories of cancer
+Gene  EIF2AK2  is found to be cancerous in  1  categories of cancer
+Gene  KMT2C  is not found to be cancerous
+Gene  SLC2A3  is found to be cancerous in  1  categories of cancer
+Gene  MPC1  is not found to be cancerous
+Gene  HDAC7  is found to be cancerous in  1  categories of cancer
+Gene  VMP1  is not found to be cancerous
+Gene  BTBD1  is found to be cancerous in  1  categories of cancer
+Gene  OAT  is not found to be cancerous
+Gene  KARS1  is not found to be cancerous
+Gene  ELAVL1  is found to be cancerous in  1  categories of cancer
+Gene  CD84  is found to be cancerous in  1  categories of cancer
+Gene  ATP11A  is found to be cancerous in  1  categories of cancer
+Gene  GBA2  is not found to be cancerous
+Gene  CDC42  is found to be cancerous in  1  categories of cancer
+Gene  WDR1  is found to be cancerous in  1  categories of cancer
+Gene  ASIC4  is not found to be cancerous
+Gene  HSD17B10  is found to be cancerous in  1  categories of cancer
+Gene  FCGR2B  is found to be cancerous in  1  categories of cancer
+Gene  NFATC3  is found to be cancerous in  1  categories of cancer
+Gene  ACADVL  is found to be cancerous in  1  categories of cancer
+Gene  SDHA  is found to be cancerous in  1  categories of cancer
+Gene  ST6GAL1  is found to be cancerous in  1  categories of cancer
+Gene  ATP2A3  is found to be cancerous in  1  categories of cancer
+Gene  ENO1  is not found to be cancerous
+Gene  ADD2  is found to be cancerous in  1  categories of cancer
+Gene  SLC25A3  is found to be cancerous in  1  categories of cancer
+Gene  FRYL  is found to be cancerous in  1  categories of cancer
+Gene  ACTB  is found to be cancerous in  1  categories of cancer
+Gene  MLH1  is found to be cancerous in  1  categories of cancer
+Gene  TNS1  is found to be cancerous in  1  categories of cancer
+Gene  FDFT1  is found to be cancerous in  1  categories of cancer
+Gene  MEF2C  is found to be cancerous in  1  categories of cancer
+Gene  OXCT1  is found to be cancerous in  1  categories of cancer
+Gene  RPS5  is found to be cancerous in  1  categories of cancer
+Gene  GSTP1  is found to be cancerous in  1  categories of cancer
+Gene  EIF3I  is found to be cancerous in  1  categories of cancer
+Gene  PPP1R15A  is found to be cancerous in  1  categories of cancer
+Gene  ADD1  is found to be cancerous in  1  categories of cancer
+Gene  GNAS  is found to be cancerous in  1  categories of cancer
+Gene  TPX2  is found to be cancerous in  1  categories of cancer
+Gene  COQ9  is not found to be cancerous
+Gene  FKBP1A  is not found to be cancerous
+Gene  RPL6  is found to be cancerous in  1  categories of cancer
+Gene  LYZ  is found to be cancerous in  1  categories of cancer
+Gene  AARS1  is not found to be cancerous
+Gene  PHGDH  is found to be cancerous in  1  categories of cancer
+Gene  CDC45  is found to be cancerous in  1  categories of cancer
+Gene  PTGS1  is not found to be cancerous
+Gene  SRPK1  is found to be cancerous in  1  categories of cancer
+Gene  HSP90AB1  is found to be cancerous in  1  categories of cancer
+Gene  SCD  is found to be cancerous in  1  categories of cancer
+Gene  MAGEB2  is not found to be cancerous
+Gene  CRKL  is not found to be cancerous
+Gene  BCL2L13  is found to be cancerous in  1  categories of cancer
+Gene  GCAT  is found to be cancerous in  1  categories of cancer
+Gene  SNU13  is not found to be cancerous
+Gene  XBP1  is found to be cancerous in  1  categories of cancer
+Gene  MIEF1  is not found to be cancerous
+Gene  ST13  is found to be cancerous in  1  categories of cancer
+Gene  ACO2  is not found to be cancerous
+Gene  BRD1  is found to be cancerous in  1  categories of cancer
+Gene  SRSF5  is not found to be cancerous
+Gene  ARHGAP5  is found to be cancerous in  1  categories of cancer
+Gene  PROCR  is found to be cancerous in  1  categories of cancer
+Gene  PABPC1L  is found to be cancerous in  1  categories of cancer
+Gene  CTSZ  is found to be cancerous in  1  categories of cancer
+Gene  TUBB1  is found to be cancerous in  1  categories of cancer
+Gene  TRIB3  is found to be cancerous in  1  categories of cancer
+Gene  IDH3B  is not found to be cancerous
+Gene  MYL12A  is not found to be cancerous
+Gene  TBL1X  is found to be cancerous in  1  categories of cancer
+Gene  GABRE  is found to be cancerous in  1  categories of cancer
+Gene  MAGED2  is found to be cancerous in  1  categories of cancer
+Gene  COTL1  is found to be cancerous in  1  categories of cancer
+Gene  SLC7A5  is found to be cancerous in  1  categories of cancer
+Gene  STUB1  is found to be cancerous in  1  categories of cancer
+Gene  DNAJA3  is found to be cancerous in  1  categories of cancer
+Gene  KAT8  is not found to be cancerous
+Gene  FAH  is found to be cancerous in  1  categories of cancer
+Gene  CEP152  is found to be cancerous in  1  categories of cancer
+Gene  BMF  is found to be cancerous in  1  categories of cancer
+Gene  SCG3  is found to be cancerous in  1  categories of cancer
+Gene  INTS9  is not found to be cancerous
+Gene  CALB1  is found to be cancerous in  1  categories of cancer
+Gene  SLC39A14  is found to be cancerous in  1  categories of cancer
+Gene  GSR  is found to be cancerous in  1  categories of cancer
+Gene  ASAH1  is found to be cancerous in  1  categories of cancer
+Gene  OAZ1  is found to be cancerous in  1  categories of cancer
+Gene  TIMM50  is found to be cancerous in  1  categories of cancer
+Gene  FBL  is found to be cancerous in  1  categories of cancer
+Gene  SLC1A5  is not found to be cancerous
+Gene  BABAM1  is not found to be cancerous
+Gene  WDR83OS  is not found to be cancerous
+Gene  KLF1  is found to be cancerous in  1  categories of cancer
+Gene  TMEM147  is found to be cancerous in  1  categories of cancer
+Gene  RASA4  is found to be cancerous in  1  categories of cancer
+Gene  OGDH  is found to be cancerous in  1  categories of cancer
+Gene  CAV2  is found to be cancerous in  1  categories of cancer
+Gene  CHCHD2  is found to be cancerous in  1  categories of cancer
+Gene  CHCHD3  is found to be cancerous in  1  categories of cancer
+Gene  CORO2A  is found to be cancerous in  1  categories of cancer
+Gene  PPIF  is found to be cancerous in  1  categories of cancer
+Gene  RPL19  is found to be cancerous in  1  categories of cancer
+Gene  PFN1  is found to be cancerous in  1  categories of cancer
+Gene  C1QBP  is found to be cancerous in  1  categories of cancer
+Gene  LGALS3BP  is found to be cancerous in  1  categories of cancer
+Gene  ALOX12  is found to be cancerous in  1  categories of cancer
+Gene  HDAC5  is found to be cancerous in  1  categories of cancer
+Gene  LUC7L3  is not found to be cancerous
+Gene  EFTUD2  is found to be cancerous in  1  categories of cancer
+Gene  YWHAE  is not found to be cancerous
+Gene  KLF3  is found to be cancerous in  1  categories of cancer
+Gene  HSPA8  is found to be cancerous in  1  categories of cancer
+Gene  VWA5A  is found to be cancerous in  1  categories of cancer
+Gene  CBL  is found to be cancerous in  1  categories of cancer
+Gene  CARS1  is not found to be cancerous
+Gene  SLC35F2  is found to be cancerous in  1  categories of cancer
+Gene  CD69  is found to be cancerous in  1  categories of cancer
+Gene  CAPRIN2  is found to be cancerous in  1  categories of cancer
+Gene  SLC11A2  is not found to be cancerous
+Gene  ATP5F1B  is not found to be cancerous
+Gene  SLC38A1  is found to be cancerous in  1  categories of cancer
+Gene  COPZ1  is found to be cancerous in  1  categories of cancer
+Gene  GAPDH  is found to be cancerous in  1  categories of cancer
+Gene  TPI1  is found to be cancerous in  1  categories of cancer
+Gene  ENO2  is found to be cancerous in  1  categories of cancer
+Gene  COX6A1  is found to be cancerous in  1  categories of cancer
+Gene  RPS12  is found to be cancerous in  1  categories of cancer
+Gene  MRPL2  is found to be cancerous in  1  categories of cancer
+Gene  COX7A2  is found to be cancerous in  1  categories of cancer
+Gene  VEGFA  is found to be cancerous in  1  categories of cancer
+Gene  DAP  is found to be cancerous in  1  categories of cancer
+Gene  BRD8  is not found to be cancerous
+Gene  NNT  is not found to be cancerous
+Gene  MRPS30  is found to be cancerous in  1  categories of cancer
+Gene  MRPS27  is found to be cancerous in  1  categories of cancer
+Gene  STC2  is not found to be cancerous
+Gene  DBN1  is found to be cancerous in  1  categories of cancer
+Gene  BCL6  is found to be cancerous in  1  categories of cancer
+Gene  COL7A1  is found to be cancerous in  1  categories of cancer
+Gene  MAPKAPK3  is found to be cancerous in  1  categories of cancer
+Gene  ABHD14B  is found to be cancerous in  1  categories of cancer
+Gene  NKTR  is found to be cancerous in  1  categories of cancer
+Gene  DGUOK  is found to be cancerous in  1  categories of cancer
+Gene  ABCB6  is not found to be cancerous
+Gene  ODC1  is found to be cancerous in  1  categories of cancer
+Gene  PLEKHB2  is found to be cancerous in  1  categories of cancer
+Gene  DHCR24  is found to be cancerous in  1  categories of cancer
+Gene  RPL22  is found to be cancerous in  1  categories of cancer
+Gene  WDR77  is found to be cancerous in  1  categories of cancer
+Gene  ATP5PB  is not found to be cancerous
+Gene  ARHGEF2  is not found to be cancerous
+Gene  MAD2L2  is found to be cancerous in  1  categories of cancer
+Gene  MFN2  is found to be cancerous in  1  categories of cancer
+Gene  CTH  is found to be cancerous in  1  categories of cancer
+Gene  SDHB  is not found to be cancerous
+Gene  SSX2IP  is found to be cancerous in  1  categories of cancer
+Gene  RCOR3  is not found to be cancerous
+Gene  RPS25  is found to be cancerous in  1  categories of cancer
+Gene  MYL12B  is found to be cancerous in  1  categories of cancer
+Gene  TJP2  is found to be cancerous in  1  categories of cancer
+Gene  SET  is found to be cancerous in  1  categories of cancer
+Gene  PHF19  is not found to be cancerous
+Gene  DLST  is found to be cancerous in  1  categories of cancer
+Gene  SLIRP  is not found to be cancerous
+Gene  GOT1  is found to be cancerous in  1  categories of cancer
+Gene  MTHFD1L  is not found to be cancerous
+Gene  EGR1  is found to be cancerous in  1  categories of cancer
+Gene  TNFRSF10B  is found to be cancerous in  1  categories of cancer
+Gene  KHDRBS1  is found to be cancerous in  1  categories of cancer
+Gene  P4HA1  is found to be cancerous in  1  categories of cancer
+Gene  MED13L  is found to be cancerous in  1  categories of cancer
+Gene  DDX39A  is not found to be cancerous
+Gene  ATP7B  is found to be cancerous in  1  categories of cancer
+Gene  PFDN5  is found to be cancerous in  1  categories of cancer
+Gene  CDK2  is found to be cancerous in  1  categories of cancer
+Gene  PLA2G12A  is not found to be cancerous
+Gene  MXD4  is found to be cancerous in  1  categories of cancer
+Gene  FAM210B  is not found to be cancerous
+Gene  IQSEC2  is found to be cancerous in  1  categories of cancer
+Gene  SNRPC  is found to be cancerous in  1  categories of cancer
+Gene  NQO2  is found to be cancerous in  1  categories of cancer
+Gene  KLHDC3  is not found to be cancerous
+Gene  SSR1  is found to be cancerous in  1  categories of cancer
+Gene  AHNAK  is found to be cancerous in  1  categories of cancer
+Gene  CNOT1  is found to be cancerous in  1  categories of cancer
+Gene  GOT2  is found to be cancerous in  1  categories of cancer
+Gene  SNRPD2  is found to be cancerous in  1  categories of cancer
+Gene  SNRPB  is found to be cancerous in  1  categories of cancer
+Gene  PSMB2  is found to be cancerous in  1  categories of cancer
+Gene  COX6B1  is found to be cancerous in  1  categories of cancer
+Gene  BCL2L12  is found to be cancerous in  1  categories of cancer
+Gene  PRMT1  is found to be cancerous in  1  categories of cancer
+Gene  STAT5A  is found to be cancerous in  1  categories of cancer
+Gene  TRAP1  is found to be cancerous in  1  categories of cancer
+Gene  ELK1  is found to be cancerous in  1  categories of cancer
+Gene  TIMM17B  is found to be cancerous in  1  categories of cancer
+Gene  IDUA  is found to be cancerous in  1  categories of cancer
+Gene  ECHS1  is found to be cancerous in  1  categories of cancer
+Gene  AKAP9  is not found to be cancerous
+Gene  MGAT3  is found to be cancerous in  1  categories of cancer
+Gene  ATF4  is found to be cancerous in  1  categories of cancer
+Gene  FLNC  is found to be cancerous in  1  categories of cancer
+Gene  MRPS12  is found to be cancerous in  1  categories of cancer
+Gene  ARPP19  is found to be cancerous in  1  categories of cancer
+Gene  SUMF2  is found to be cancerous in  1  categories of cancer
+Gene  NEDD8  is found to be cancerous in  1  categories of cancer
+Gene  ARHGEF6  is found to be cancerous in  1  categories of cancer
+Gene  STARD8  is found to be cancerous in  1  categories of cancer
+Gene  ELOF1  is found to be cancerous in  1  categories of cancer
+Gene  TOMM40  is found to be cancerous in  1  categories of cancer
+Gene  NDUFA10  is not found to be cancerous
+Gene  UBAC1  is found to be cancerous in  1  categories of cancer
+Gene  SESN2  is not found to be cancerous
+Gene  PNCK  is found to be cancerous in  1  categories of cancer
+Gene  DKC1  is found to be cancerous in  1  categories of cancer
+Gene  ACSS2  is found to be cancerous in  1  categories of cancer
+Gene  COX4I1  is found to be cancerous in  1  categories of cancer
+Gene  COX7B  is found to be cancerous in  1  categories of cancer
+Gene  SLC6A6  is found to be cancerous in  1  categories of cancer
+Gene  PSME3  is found to be cancerous in  1  categories of cancer
+Gene  ACLY  is found to be cancerous in  1  categories of cancer
+Gene  DIAPH1  is found to be cancerous in  1  categories of cancer
+Gene  MAP1B  is found to be cancerous in  1  categories of cancer
+Gene  RHOXF2  is not found to be cancerous
+Gene  TNS4  is found to be cancerous in  1  categories of cancer
+Gene  PDHA1  is found to be cancerous in  1  categories of cancer
+Gene  MCCC2  is found to be cancerous in  1  categories of cancer
+Gene  RAN  is found to be cancerous in  1  categories of cancer
+Gene  PNISR  is not found to be cancerous
+Gene  H3-3B  is not found to be cancerous
+Gene  EIF5A  is found to be cancerous in  1  categories of cancer
+Gene  VPS4A  is found to be cancerous in  1  categories of cancer
+Gene  DAP3  is found to be cancerous in  1  categories of cancer
+Gene  NES  is found to be cancerous in  1  categories of cancer
+Gene  CA1  is found to be cancerous in  1  categories of cancer
+Gene  CCNB1  is found to be cancerous in  1  categories of cancer
+Gene  NAV1  is not found to be cancerous
+Gene  RPS15A  is found to be cancerous in  1  categories of cancer
+Gene  YARS1  is not found to be cancerous
+Gene  DSC2  is found to be cancerous in  1  categories of cancer
+Gene  TIMM10  is found to be cancerous in  1  categories of cancer
+Gene  COL4A2  is found to be cancerous in  1  categories of cancer
+Gene  CTSL  is not found to be cancerous
+Gene  CDK4  is found to be cancerous in  1  categories of cancer
+Gene  CD164  is found to be cancerous in  1  categories of cancer
+Gene  DYNC1LI2  is found to be cancerous in  1  categories of cancer
+Gene  GLUL  is not found to be cancerous
+Gene  CEP350  is found to be cancerous in  1  categories of cancer
+Gene  DNAJB2  is found to be cancerous in  1  categories of cancer
+Gene  FLNB  is found to be cancerous in  1  categories of cancer
+Gene  LCP1  is found to be cancerous in  1  categories of cancer
+Gene  TBRG4  is found to be cancerous in  1  categories of cancer
+Gene  CCM2  is found to be cancerous in  1  categories of cancer
+Gene  USP20  is not found to be cancerous
+Gene  HEMGN  is found to be cancerous in  1  categories of cancer
+Gene  PSMB7  is found to be cancerous in  1  categories of cancer
+Gene  RPS6  is found to be cancerous in  1  categories of cancer
+Gene  TMEM14B  is found to be cancerous in  1  categories of cancer
+Gene  FAM8A1  is found to be cancerous in  1  categories of cancer
+Gene  SLCO2B1  is found to be cancerous in  1  categories of cancer
+Gene  NUSAP1  is found to be cancerous in  1  categories of cancer
+Gene  ATIC  is found to be cancerous in  1  categories of cancer
+Gene  FASTKD1  is found to be cancerous in  1  categories of cancer
+Gene  CIR1  is found to be cancerous in  1  categories of cancer
+Gene  SEC31A  is found to be cancerous in  1  categories of cancer
+Gene  INHBE  is not found to be cancerous
+Gene  SLC7A1  is found to be cancerous in  1  categories of cancer
+Gene  ESYT1  is found to be cancerous in  1  categories of cancer
+Gene  WARS1  is not found to be cancerous
+Gene  SERF2  is found to be cancerous in  1  categories of cancer
+Gene  ARRDC4  is found to be cancerous in  1  categories of cancer
+Gene  UQCRC2  is found to be cancerous in  1  categories of cancer
+Gene  SS18  is found to be cancerous in  1  categories of cancer
+Gene  EIF4A3  is found to be cancerous in  1  categories of cancer
+Gene  IGFBP4  is found to be cancerous in  1  categories of cancer
+Gene  RPL11  is found to be cancerous in  1  categories of cancer
+Gene  PSMA5  is found to be cancerous in  1  categories of cancer
+Gene  CELSR2  is found to be cancerous in  1  categories of cancer
+Gene  PPOX  is found to be cancerous in  1  categories of cancer
+Gene  JTB  is found to be cancerous in  1  categories of cancer
+Gene  TPM3  is found to be cancerous in  1  categories of cancer
+Gene  HAX1  is found to be cancerous in  1  categories of cancer
+Gene  ILF2  is found to be cancerous in  1  categories of cancer
+Gene  SRP9  is found to be cancerous in  1  categories of cancer
+Gene  LBR  is found to be cancerous in  1  categories of cancer
+Gene  PTPN7  is found to be cancerous in  1  categories of cancer
+Gene  PKP4  is found to be cancerous in  1  categories of cancer
+Gene  IQSEC1  is found to be cancerous in  1  categories of cancer
+Gene  MUC4  is found to be cancerous in  1  categories of cancer
+Gene  CCNA2  is found to be cancerous in  1  categories of cancer
+Gene  AIG1  is found to be cancerous in  1  categories of cancer
+Gene  VWDE  is found to be cancerous in  1  categories of cancer
+Gene  TMEM209  is found to be cancerous in  1  categories of cancer
+Gene  MSN  is found to be cancerous in  1  categories of cancer
+Gene  RBMX  is found to be cancerous in  1  categories of cancer
+Gene  SLC25A37  is found to be cancerous in  1  categories of cancer
+Gene  EIF3M  is not found to be cancerous
+Gene  HYOU1  is found to be cancerous in  1  categories of cancer
+Gene  FADS1  is not found to be cancerous
+Gene  PDCD4  is found to be cancerous in  1  categories of cancer
+Gene  DLAT  is found to be cancerous in  1  categories of cancer
+Gene  TWF1  is found to be cancerous in  1  categories of cancer
+Gene  UPF2  is found to be cancerous in  1  categories of cancer
+Gene  ATP5F1A  is not found to be cancerous
+Gene  PFKM  is found to be cancerous in  1  categories of cancer
+Gene  HHEX  is found to be cancerous in  1  categories of cancer
+Gene  UTRN  is found to be cancerous in  1  categories of cancer
+Gene  ZNF117  is found to be cancerous in  1  categories of cancer
+Gene  CAST  is found to be cancerous in  1  categories of cancer
+Gene  SREK1  is not found to be cancerous
+Gene  ATP5MC3  is not found to be cancerous
+Gene  ELOC  is not found to be cancerous
+Gene  ATP5PF  is not found to be cancerous
+Gene  KLF10  is found to be cancerous in  1  categories of cancer
+Gene  MMS19  is found to be cancerous in  1  categories of cancer
+Gene  RHOC  is found to be cancerous in  1  categories of cancer
+Gene  OXA1L  is found to be cancerous in  1  categories of cancer
+Gene  PPARGC1B  is found to be cancerous in  1  categories of cancer
+Gene  UBE2L6  is found to be cancerous in  1  categories of cancer
+Gene  RAB11FIP1  is found to be cancerous in  1  categories of cancer
+Gene  FCHO2  is found to be cancerous in  1  categories of cancer
+Gene  ZNF618  is found to be cancerous in  1  categories of cancer
+Gene  TNFRSF14  is not found to be cancerous
+Gene  ALAS2  is found to be cancerous in  1  categories of cancer
+Gene  TAGLN2  is found to be cancerous in  1  categories of cancer
+Gene  DMTN  is not found to be cancerous
+Gene  NDUFS2  is found to be cancerous in  1  categories of cancer
+Gene  EPB41  is found to be cancerous in  1  categories of cancer
+Gene  ALG8  is found to be cancerous in  1  categories of cancer
+Gene  GART  is found to be cancerous in  1  categories of cancer
+Gene  ATP5MC1  is not found to be cancerous
+Gene  RUNX1  is found to be cancerous in  1  categories of cancer
+Gene  PSMB4  is found to be cancerous in  1  categories of cancer
+Gene  BTG2  is found to be cancerous in  1  categories of cancer
+Gene  HK2  is not found to be cancerous
+Gene  CBS  is found to be cancerous in  1  categories of cancer
+Gene  FDPS  is found to be cancerous in  1  categories of cancer
+Gene  ORAI2  is found to be cancerous in  1  categories of cancer
+Gene  EIF4A1  is found to be cancerous in  1  categories of cancer
+Gene  CYB561A3  is not found to be cancerous
+Gene  PEF1  is not found to be cancerous
+Gene  MXRA8  is found to be cancerous in  1  categories of cancer
+Gene  FAM102B  is not found to be cancerous
+Gene  PEX19  is found to be cancerous in  1  categories of cancer
+Gene  NOSTRIN  is found to be cancerous in  1  categories of cancer
+Gene  CTSS  is not found to be cancerous
+Gene  ABRAXAS1  is not found to be cancerous
+Gene  ATP1A1  is not found to be cancerous
+Gene  SUCLG1  is found to be cancerous in  1  categories of cancer
+Gene  CCNL1  is found to be cancerous in  1  categories of cancer
+Gene  MELTF  is not found to be cancerous
+Gene  ERMAP  is found to be cancerous in  1  categories of cancer
+Gene  CDC25A  is found to be cancerous in  1  categories of cancer
+Gene  BSN  is found to be cancerous in  1  categories of cancer
+Gene  ERAP1  is found to be cancerous in  1  categories of cancer
+Gene  UQCRQ  is found to be cancerous in  1  categories of cancer
+Gene  TRA2A  is not found to be cancerous
+Gene  RPS14  is found to be cancerous in  1  categories of cancer
+Gene  CTSB  is found to be cancerous in  1  categories of cancer
+Gene  DNAAF5  is not found to be cancerous
+Gene  SLC25A32  is found to be cancerous in  1  categories of cancer
+Gene  TP53INP1  is found to be cancerous in  1  categories of cancer
+Gene  PSIP1  is found to be cancerous in  1  categories of cancer
+Gene  AQP3  is not found to be cancerous
+Gene  INTS6L  is not found to be cancerous
+Gene  GHITM  is not found to be cancerous
+Gene  GFI1B  is not found to be cancerous
+Gene  NOLC1  is found to be cancerous in  1  categories of cancer
+Gene  TRIM66  is found to be cancerous in  1  categories of cancer
+Gene  MCM7  is found to be cancerous in  1  categories of cancer
+Gene  B2M  is not found to be cancerous
+Gene  PPIB  is found to be cancerous in  1  categories of cancer
+Gene  MRPL16  is not found to be cancerous
+Gene  EPB42  is found to be cancerous in  1  categories of cancer
+Gene  MAP1A  is found to be cancerous in  1  categories of cancer
+Gene  PHB  is found to be cancerous in  1  categories of cancer
+Gene  SLC27A4  is found to be cancerous in  1  categories of cancer
+Gene  ATP5MG  is not found to be cancerous
+Gene  RRM1  is found to be cancerous in  1  categories of cancer
+Gene  TPM4  is found to be cancerous in  1  categories of cancer
+Gene  YIF1B  is found to be cancerous in  1  categories of cancer
+Gene  NDUFV1  is not found to be cancerous
+Gene  TRANK1  is not found to be cancerous
+Gene  RPSA  is found to be cancerous in  1  categories of cancer
+Gene  LTBP3  is found to be cancerous in  1  categories of cancer
+Gene  CCDC88B  is not found to be cancerous
+Gene  DDIT4  is found to be cancerous in  1  categories of cancer
+Gene  TNXB  is found to be cancerous in  1  categories of cancer
+Gene  STAT3  is found to be cancerous in  1  categories of cancer
+Gene  NDUFS5  is found to be cancerous in  1  categories of cancer
+Gene  DDX19A  is found to be cancerous in  1  categories of cancer
+Gene  USP39  is found to be cancerous in  1  categories of cancer
+Gene  ATP5ME  is not found to be cancerous
+Gene  UQCRFS1  is not found to be cancerous
+Gene  NSMCE1  is found to be cancerous in  1  categories of cancer
+Gene  PRELID1  is found to be cancerous in  1  categories of cancer
+Gene  SF3B5  is found to be cancerous in  1  categories of cancer
+Gene  CHD3  is not found to be cancerous
+Gene  GYPA  is found to be cancerous in  1  categories of cancer
+Gene  GLB1  is found to be cancerous in  1  categories of cancer
+Gene  FAXDC2  is not found to be cancerous
+Gene  TMED10  is found to be cancerous in  1  categories of cancer
+Gene  PA2G4  is found to be cancerous in  1  categories of cancer
+Gene  SMAGP  is not found to be cancerous
+Gene  PAQR8  is found to be cancerous in  1  categories of cancer
+Gene  PGAM1  is found to be cancerous in  1  categories of cancer
+Gene  ATF7IP  is found to be cancerous in  1  categories of cancer
+Gene  RASGRP4  is found to be cancerous in  1  categories of cancer
+Gene  CYCS  is found to be cancerous in  1  categories of cancer
+Gene  GTPBP2  is found to be cancerous in  1  categories of cancer
+Gene  EGFL7  is found to be cancerous in  1  categories of cancer
+Gene  DHCR7  is found to be cancerous in  1  categories of cancer
+Gene  MYEOV  is found to be cancerous in  1  categories of cancer
+Gene  OXSR1  is found to be cancerous in  1  categories of cancer
+Gene  CKS1B  is found to be cancerous in  1  categories of cancer
+Gene  SLC2A14  is found to be cancerous in  1  categories of cancer
+Gene  MICOS10  is not found to be cancerous
+Gene  EHBP1L1  is not found to be cancerous
+Gene  PPP1R14B  is found to be cancerous in  1  categories of cancer
+Gene  NABP1  is not found to be cancerous
+Gene  CHD2  is found to be cancerous in  1  categories of cancer
+Gene  UQCRH  is found to be cancerous in  1  categories of cancer
+Gene  STAT5B  is found to be cancerous in  1  categories of cancer
+Gene  NET1  is found to be cancerous in  1  categories of cancer
+Gene  SPTBN2  is found to be cancerous in  1  categories of cancer
+Gene  ATP5MD  is not found to be cancerous
+Gene  RPL4  is found to be cancerous in  1  categories of cancer
+Gene  RESF1  is not found to be cancerous
+Gene  FUT1  is found to be cancerous in  1  categories of cancer
+Gene  MARCKSL1  is found to be cancerous in  1  categories of cancer
+Gene  GOLGA8A  is found to be cancerous in  1  categories of cancer
+Gene  COX8A  is found to be cancerous in  1  categories of cancer
+Gene  RHOG  is found to be cancerous in  1  categories of cancer
+Gene  COX5A  is found to be cancerous in  1  categories of cancer
+Gene  TAF7  is found to be cancerous in  1  categories of cancer
+Gene  TUFM  is found to be cancerous in  1  categories of cancer
+Gene  EIF3K  is found to be cancerous in  1  categories of cancer
+Gene  CYC1  is found to be cancerous in  1  categories of cancer
+Gene  SETD2  is found to be cancerous in  1  categories of cancer
+Gene  SLX1B  is not found to be cancerous
+Gene  ATG9B  is found to be cancerous in  1  categories of cancer
+Gene  SHMT2  is found to be cancerous in  1  categories of cancer
+Gene  ANXA2  is found to be cancerous in  1  categories of cancer
+Gene  RPL35A  is found to be cancerous in  1  categories of cancer
+Gene  SF3A3  is found to be cancerous in  1  categories of cancer
+Gene  KMT5A  is not found to be cancerous
+Gene  ACTG1  is found to be cancerous in  1  categories of cancer
+Gene  PROS1  is found to be cancerous in  1  categories of cancer
+Gene  SOCS3  is found to be cancerous in  1  categories of cancer
+Gene  APOBR  is not found to be cancerous
+Gene  CIB1  is found to be cancerous in  1  categories of cancer
+Gene  TCEAL9  is not found to be cancerous
+Gene  PRAME  is found to be cancerous in  1  categories of cancer
+Gene  PCYT2  is found to be cancerous in  1  categories of cancer
+Gene  BCAP31  is found to be cancerous in  1  categories of cancer
+Gene  IFITM1  is found to be cancerous in  1  categories of cancer
+Gene  NBPF6  is found to be cancerous in  1  categories of cancer
+Gene  INSIG1  is not found to be cancerous
+Gene  HEXIM1  is found to be cancerous in  1  categories of cancer
+Gene  RHD  is found to be cancerous in  1  categories of cancer
+Gene  PLCD1  is found to be cancerous in  1  categories of cancer
+Gene  RGPD1  is found to be cancerous in  1  categories of cancer
+Gene  EIF4EBP1  is found to be cancerous in  1  categories of cancer
+Gene  C17orf99  is not found to be cancerous
+Gene  HEPACAM2  is found to be cancerous in  1  categories of cancer
+Gene  RHCE  is found to be cancerous in  1  categories of cancer
+Gene  UROS  is found to be cancerous in  1  categories of cancer
+Gene  NDUFA4  is found to be cancerous in  1  categories of cancer
+Gene  RELN  is found to be cancerous in  1  categories of cancer
+Gene  SLC35E2B  is not found to be cancerous
+Gene  STK40  is found to be cancerous in  1  categories of cancer
+Gene  PPIA  is found to be cancerous in  1  categories of cancer
+Gene  LONP1  is found to be cancerous in  1  categories of cancer
+Gene  PIK3R4  is found to be cancerous in  1  categories of cancer
+Gene  MAN2A2  is found to be cancerous in  1  categories of cancer
+Gene  DAPK1  is not found to be cancerous
+Gene  FLNA  is found to be cancerous in  1  categories of cancer
+Gene  LRRC8B  is not found to be cancerous
+Gene  MRPL21  is found to be cancerous in  1  categories of cancer
+Gene  STMN3  is not found to be cancerous
+Gene  CDC42SE1  is found to be cancerous in  1  categories of cancer
+Gene  RPS26  is not found to be cancerous
+Gene  KEL  is not found to be cancerous
+Gene  MYL4  is not found to be cancerous
+Gene  OGA  is not found to be cancerous
+Gene  CTNND1  is found to be cancerous in  1  categories of cancer
+Gene  OPA1  is not found to be cancerous
+Gene  COL11A2  is found to be cancerous in  1  categories of cancer
+Gene  SDHD  is found to be cancerous in  1  categories of cancer
+Gene  HSPA1A  is found to be cancerous in  1  categories of cancer
+Gene  LSM2  is found to be cancerous in  1  categories of cancer
+Gene  AIF1  is found to be cancerous in  1  categories of cancer
+Gene  MRPS18B  is found to be cancerous in  1  categories of cancer
+Gene  LGR4  is found to be cancerous in  1  categories of cancer
+Gene  IPO7  is not found to be cancerous
+Gene  EIF3CL  is found to be cancerous in  1  categories of cancer
+Gene  C5orf51  is not found to be cancerous
+Gene  GSTM2  is found to be cancerous in  1  categories of cancer
+Gene  ERV3-1  is not found to be cancerous
+Gene  TMX2  is found to be cancerous in  1  categories of cancer
+Gene  CLIC1  is found to be cancerous in  1  categories of cancer
+Gene  TTLL3  is found to be cancerous in  1  categories of cancer
+Gene  TOMM6  is found to be cancerous in  1  categories of cancer
+Gene  PHB2  is not found to be cancerous
+Gene  FADS3  is found to be cancerous in  1  categories of cancer
+Gene  CCNL2  is found to be cancerous in  1  categories of cancer
+Gene  UBA52  is not found to be cancerous
+Gene  NSUN5P1  is not found to be cancerous
+Gene  HSPA7  is not found to be cancerous
+Gene  GTF2H2B  is found to be cancerous in  1  categories of cancer
+Gene  DANCR  is not found to be cancerous
+Gene  RPL41  is not found to be cancerous
+Gene  CRPPA-AS1  is not found to be cancerous
+Gene  GTF2IP4  is not found to be cancerous
+Gene  PPP1R3E  is found to be cancerous in  1  categories of cancer
+Gene  OLMALINC  is not found to be cancerous
+Gene  NME1  is found to be cancerous in  1  categories of cancer
+Gene  RPL36A  is found to be cancerous in  1  categories of cancer
+Gene  ATP5PO  is not found to be cancerous
+Gene  EIF6  is found to be cancerous in  1  categories of cancer
+Gene  ACY1  is found to be cancerous in  1  categories of cancer
+Gene  ETV5  is found to be cancerous in  1  categories of cancer
+Gene  FCGR2C  is not found to be cancerous
+Gene  GABPB1-AS1  is not found to be cancerous
+Gene  GYPB  is not found to be cancerous
+Gene  CHCHD10  is found to be cancerous in  1  categories of cancer
+Gene  SELENOP  is not found to be cancerous
+Gene  RTEL1  is found to be cancerous in  1  categories of cancer
+Gene  GTF2I  is found to be cancerous in  1  categories of cancer
+Gene  UBBP4  is not found to be cancerous
+Gene  LINC02864  is not found to be cancerous
+Gene  KCNQ1OT1  is found to be cancerous in  1  categories of cancer
+Gene  RPS10-NUDT3  is not found to be cancerous
+Gene  LINC02772  is not found to be cancerous
+Gene  ZNF595  is found to be cancerous in  1  categories of cancer
+Gene  GTF2IP1  is not found to be cancerous
+Gene  PSMB3  is found to be cancerous in  1  categories of cancer
+Gene  DHRS11  is found to be cancerous in  1  categories of cancer
+Gene  TFPI  is found to be cancerous in  1  categories of cancer
+Gene  NDUFAB1  is found to be cancerous in  1  categories of cancer
+Gene  CIAPIN1  is found to be cancerous in  1  categories of cancer
+Gene  CREBBP  is found to be cancerous in  1  categories of cancer
+Gene  IBTK  is not found to be cancerous
+Gene  PAF1  is found to be cancerous in  1  categories of cancer
+Gene  SCIN  is not found to be cancerous
+Gene  MYLIP  is found to be cancerous in  1  categories of cancer
+Gene  PSMB1  is found to be cancerous in  1  categories of cancer
+Gene  NCAPD2  is found to be cancerous in  1  categories of cancer
+Gene  PTBP1  is found to be cancerous in  1  categories of cancer
+Gene  LARS2  is found to be cancerous in  1  categories of cancer
+Gene  QPCTL  is found to be cancerous in  1  categories of cancer
+Gene  UBR7  is found to be cancerous in  1  categories of cancer
+Gene  RNF14  is found to be cancerous in  1  categories of cancer
+Gene  MDH1  is found to be cancerous in  1  categories of cancer
+Gene  TTC27  is not found to be cancerous
+Gene  RNH1  is not found to be cancerous
+Gene  GLRX2  is found to be cancerous in  1  categories of cancer
+Gene  EHD2  is found to be cancerous in  1  categories of cancer
+Gene  FAM13B  is found to be cancerous in  1  categories of cancer
+Gene  APBA2  is found to be cancerous in  1  categories of cancer
+Gene  TMSB10  is found to be cancerous in  1  categories of cancer
+Gene  DEPDC1B  is found to be cancerous in  1  categories of cancer
+Gene  NSMAF  is found to be cancerous in  1  categories of cancer
+Gene  RPL26L1  is found to be cancerous in  1  categories of cancer
+Gene  HSPA5  is found to be cancerous in  1  categories of cancer
+Gene  XK  is found to be cancerous in  1  categories of cancer
+Gene  RSF1  is found to be cancerous in  1  categories of cancer
+Gene  VPS13D  is found to be cancerous in  1  categories of cancer
+Gene  COL9A2  is not found to be cancerous
+Gene  CLPTM1L  is found to be cancerous in  1  categories of cancer
+Gene  ZNF280C  is not found to be cancerous
+Gene  ATG5  is found to be cancerous in  1  categories of cancer
+Gene  UNKL  is found to be cancerous in  1  categories of cancer
+Gene  CCAR1  is found to be cancerous in  1  categories of cancer
+Gene  OGFR  is found to be cancerous in  1  categories of cancer
+Gene  HIPK2  is found to be cancerous in  1  categories of cancer
+Gene  TMEM161A  is found to be cancerous in  1  categories of cancer
+Gene  YBX1  is found to be cancerous in  1  categories of cancer
+Gene  FECH  is not found to be cancerous
+Gene  IDI1  is found to be cancerous in  1  categories of cancer
+Gene  TNFRSF1A  is found to be cancerous in  1  categories of cancer
+Gene  RRP15  is found to be cancerous in  1  categories of cancer
+Gene  COASY  is found to be cancerous in  1  categories of cancer
+Gene  RAB27A  is found to be cancerous in  1  categories of cancer
+Gene  DAPP1  is found to be cancerous in  1  categories of cancer
+Gene  ASNS  is found to be cancerous in  1  categories of cancer
+Gene  TCOF1  is found to be cancerous in  1  categories of cancer
+Gene  AFF4  is found to be cancerous in  1  categories of cancer
+Gene  HMMR  is found to be cancerous in  1  categories of cancer
+Gene  NLE1  is found to be cancerous in  1  categories of cancer
+Gene  TEAD2  is found to be cancerous in  1  categories of cancer
+Gene  ACTR6  is not found to be cancerous
+Gene  NUP37  is found to be cancerous in  1  categories of cancer
+Gene  MCM6  is found to be cancerous in  1  categories of cancer
+Gene  ITCH  is found to be cancerous in  1  categories of cancer
+Gene  DNM2  is found to be cancerous in  1  categories of cancer
+Gene  STX7  is found to be cancerous in  1  categories of cancer
+Gene  TCF7  is found to be cancerous in  1  categories of cancer
+Gene  PTPRC  is found to be cancerous in  1  categories of cancer
+Gene  MAPRE3  is found to be cancerous in  1  categories of cancer
+Gene  PREP  is found to be cancerous in  1  categories of cancer
+Gene  RAD54L  is found to be cancerous in  1  categories of cancer
+Gene  ZW10  is found to be cancerous in  1  categories of cancer
+Gene  PIGS  is not found to be cancerous
+Gene  GCN1  is not found to be cancerous
+Gene  FH  is found to be cancerous in  1  categories of cancer
+Gene  TF  is found to be cancerous in  1  categories of cancer
+Gene  NLRP1  is found to be cancerous in  1  categories of cancer
+Gene  SLC7A8  is found to be cancerous in  1  categories of cancer
+Gene  XYLB  is found to be cancerous in  1  categories of cancer
+Gene  SUCO  is not found to be cancerous
+Gene  WHRN  is not found to be cancerous
+Gene  BRPF3  is not found to be cancerous
+Gene  ITPR3  is found to be cancerous in  1  categories of cancer
+Gene  HNRNPH3  is found to be cancerous in  1  categories of cancer
+Gene  ACOT7  is found to be cancerous in  1  categories of cancer
+Gene  ARVCF  is not found to be cancerous
+Gene  RANBP1  is found to be cancerous in  1  categories of cancer
+Gene  THOC5  is found to be cancerous in  1  categories of cancer
+Gene  APOL4  is found to be cancerous in  1  categories of cancer
+Gene  PRMT5  is found to be cancerous in  1  categories of cancer
+Gene  PSMA3  is found to be cancerous in  1  categories of cancer
+Gene  HIF1A  is found to be cancerous in  1  categories of cancer
+Gene  SUSD6  is not found to be cancerous
+Gene  PCK2  is found to be cancerous in  1  categories of cancer
+Gene  PNN  is not found to be cancerous
+Gene  GSS  is found to be cancerous in  1  categories of cancer
+Gene  PSMA7  is found to be cancerous in  1  categories of cancer
+Gene  ARFRP1  is found to be cancerous in  1  categories of cancer
+Gene  SEC23B  is found to be cancerous in  1  categories of cancer
+Gene  KIF3B  is found to be cancerous in  1  categories of cancer
+Gene  SNTA1  is found to be cancerous in  1  categories of cancer
+Gene  AHCY  is found to be cancerous in  1  categories of cancer
+Gene  POLA1  is found to be cancerous in  1  categories of cancer
+Gene  KCND1  is found to be cancerous in  1  categories of cancer
+Gene  TAZ  is found to be cancerous in  1  categories of cancer
+Gene  TIMP1  is found to be cancerous in  1  categories of cancer
+Gene  ARMCX3  is found to be cancerous in  1  categories of cancer
+Gene  SLC7A6  is found to be cancerous in  1  categories of cancer
+Gene  LAPTM4B  is found to be cancerous in  1  categories of cancer
+Gene  BNIP3L  is found to be cancerous in  1  categories of cancer
+Gene  PIH1D1  is found to be cancerous in  1  categories of cancer
+Gene  C19orf53  is found to be cancerous in  1  categories of cancer
+Gene  RPS16  is not found to be cancerous
+Gene  GPI  is found to be cancerous in  1  categories of cancer
+Gene  RPS19  is found to be cancerous in  1  categories of cancer
+Gene  PPP2R1A  is found to be cancerous in  1  categories of cancer
+Gene  ZC3HAV1  is found to be cancerous in  1  categories of cancer
+Gene  CPED1  is not found to be cancerous
+Gene  GRB10  is found to be cancerous in  1  categories of cancer
+Gene  GARS1  is not found to be cancerous
+Gene  CYP3A5  is found to be cancerous in  1  categories of cancer
+Gene  RPA3  is found to be cancerous in  1  categories of cancer
+Gene  EZH2  is found to be cancerous in  1  categories of cancer
+Gene  CEP41  is not found to be cancerous
+Gene  EIF4H  is found to be cancerous in  1  categories of cancer
+Gene  NPM3  is found to be cancerous in  1  categories of cancer
+Gene  GBF1  is found to be cancerous in  1  categories of cancer
+Gene  PSMD3  is found to be cancerous in  1  categories of cancer
+Gene  NUP88  is found to be cancerous in  1  categories of cancer
+Gene  EZH1  is found to be cancerous in  1  categories of cancer
+Gene  LRRC59  is found to be cancerous in  1  categories of cancer
+Gene  DHX15  is found to be cancerous in  1  categories of cancer
+Gene  FOXRED1  is found to be cancerous in  1  categories of cancer
+Gene  COMMD9  is not found to be cancerous
+Gene  ACCS  is found to be cancerous in  1  categories of cancer
+Gene  SELPLG  is found to be cancerous in  1  categories of cancer
+Gene  KRT18  is found to be cancerous in  1  categories of cancer
+Gene  CDKN1B  is not found to be cancerous
+Gene  CDK2AP1  is found to be cancerous in  1  categories of cancer
+Gene  GTF2H3  is not found to be cancerous
+Gene  CHD4  is found to be cancerous in  1  categories of cancer
+Gene  ASF1A  is not found to be cancerous
+Gene  FANCE  is found to be cancerous in  1  categories of cancer
+Gene  PHACTR1  is found to be cancerous in  1  categories of cancer
+Gene  HSPA9  is found to be cancerous in  1  categories of cancer
+Gene  SPARC  is found to be cancerous in  1  categories of cancer
+Gene  RAD50  is not found to be cancerous
+Gene  NUP155  is found to be cancerous in  1  categories of cancer
+Gene  C5orf15  is found to be cancerous in  1  categories of cancer
+Gene  SMAD5  is found to be cancerous in  1  categories of cancer
+Gene  FAM162A  is found to be cancerous in  1  categories of cancer
+Gene  PDCD10  is found to be cancerous in  1  categories of cancer
+Gene  HES1  is not found to be cancerous
+Gene  ACAP2  is found to be cancerous in  1  categories of cancer
+Gene  GNB4  is not found to be cancerous
+Gene  EEF1B2  is found to be cancerous in  1  categories of cancer
+Gene  PCGF1  is found to be cancerous in  1  categories of cancer
+Gene  FARSB  is found to be cancerous in  1  categories of cancer
+Gene  SRSF4  is not found to be cancerous
+Gene  LEPR  is found to be cancerous in  1  categories of cancer
+Gene  RO60  is not found to be cancerous
+Gene  UCHL5  is found to be cancerous in  1  categories of cancer
+Gene  PLEKHM2  is found to be cancerous in  1  categories of cancer
+Gene  CRYZ  is found to be cancerous in  1  categories of cancer
+Gene  KIF21B  is not found to be cancerous
+Gene  RIMS3  is found to be cancerous in  1  categories of cancer
+Gene  GALE  is found to be cancerous in  1  categories of cancer
+Gene  CDC20  is found to be cancerous in  1  categories of cancer
+Gene  SLC19A2  is found to be cancerous in  1  categories of cancer
+Gene  MTFR1L  is not found to be cancerous
+Gene  RPS6KA1  is found to be cancerous in  1  categories of cancer
+Gene  FBXO30  is found to be cancerous in  1  categories of cancer
+Gene  CPSF3  is found to be cancerous in  1  categories of cancer
+Gene  RAD23B  is found to be cancerous in  1  categories of cancer
+Gene  PTPA  is not found to be cancerous
+Gene  PPP6C  is found to be cancerous in  1  categories of cancer
+Gene  YLPM1  is found to be cancerous in  1  categories of cancer
+Gene  RBM25  is found to be cancerous in  1  categories of cancer
+Gene  YPEL5  is found to be cancerous in  1  categories of cancer
+Gene  HOXB8  is found to be cancerous in  1  categories of cancer
+Gene  NUDCD1  is found to be cancerous in  1  categories of cancer
+Gene  EXOSC8  is found to be cancerous in  1  categories of cancer
+Gene  MRPS2  is found to be cancerous in  1  categories of cancer
+Gene  ZNF644  is found to be cancerous in  1  categories of cancer
+Gene  TRIR  is not found to be cancerous
+Gene  OPTN  is found to be cancerous in  1  categories of cancer
+Gene  NCKAP1L  is not found to be cancerous
+Gene  NFE2  is found to be cancerous in  1  categories of cancer
+Gene  NDUFAF4  is found to be cancerous in  1  categories of cancer
+Gene  NMI  is found to be cancerous in  1  categories of cancer
+Gene  MAD2L1BP  is found to be cancerous in  1  categories of cancer
+Gene  DNAH8  is found to be cancerous in  1  categories of cancer
+Gene  MT2A  is found to be cancerous in  1  categories of cancer
+Gene  C3  is found to be cancerous in  1  categories of cancer
+Gene  RBCK1  is found to be cancerous in  1  categories of cancer
+Gene  RRBP1  is found to be cancerous in  1  categories of cancer
+Gene  CEP250  is found to be cancerous in  1  categories of cancer
+Gene  PDCD2L  is found to be cancerous in  1  categories of cancer
+Gene  ASL  is found to be cancerous in  1  categories of cancer
+Gene  ZBTB1  is found to be cancerous in  1  categories of cancer
+Gene  UQCR11  is found to be cancerous in  1  categories of cancer
+Gene  PNKD  is found to be cancerous in  1  categories of cancer
+Gene  PTPN12  is not found to be cancerous
+Gene  MTX2  is found to be cancerous in  1  categories of cancer
+Gene  TMOD2  is found to be cancerous in  1  categories of cancer
+Gene  VPS13C  is found to be cancerous in  1  categories of cancer
+Gene  MBD4  is found to be cancerous in  1  categories of cancer
+Gene  DCTD  is not found to be cancerous
+Gene  ATP1B2  is found to be cancerous in  1  categories of cancer
+Gene  FXR2  is not found to be cancerous
+Gene  RAB2B  is found to be cancerous in  1  categories of cancer
+Gene  RNASE1  is found to be cancerous in  1  categories of cancer
+Gene  TNNI3  is found to be cancerous in  1  categories of cancer
+Gene  APOE  is found to be cancerous in  1  categories of cancer
+Gene  XPO7  is found to be cancerous in  1  categories of cancer
+Gene  RTN4IP1  is found to be cancerous in  1  categories of cancer
+Gene  IQCN  is not found to be cancerous
+Gene  JUND  is found to be cancerous in  1  categories of cancer
+Gene  H19  is not found to be cancerous
+Gene  RPL27  is found to be cancerous in  1  categories of cancer
+Gene  VPS25  is found to be cancerous in  1  categories of cancer
+Gene  ACAP3  is found to be cancerous in  1  categories of cancer
+Gene  SNRPA1  is found to be cancerous in  1  categories of cancer
+Gene  DNAJB1  is found to be cancerous in  1  categories of cancer
+Gene  CC2D1A  is found to be cancerous in  1  categories of cancer
+Gene  HSD17B7  is found to be cancerous in  1  categories of cancer
+Gene  IMMT  is found to be cancerous in  1  categories of cancer
+Gene  MRPL35  is found to be cancerous in  1  categories of cancer
+Gene  UBE2G1  is found to be cancerous in  1  categories of cancer
+Gene  ERAL1  is found to be cancerous in  1  categories of cancer
+Gene  AP3B1  is not found to be cancerous
+Gene  BTBD2  is not found to be cancerous
+Gene  MYO18B  is found to be cancerous in  1  categories of cancer
+Gene  ZFC3H1  is found to be cancerous in  1  categories of cancer
+Gene  BHLHE40  is found to be cancerous in  1  categories of cancer
+Gene  SLC38A2  is found to be cancerous in  1  categories of cancer
+Gene  CMPK2  is found to be cancerous in  1  categories of cancer
+Gene  PSAT1  is found to be cancerous in  1  categories of cancer
+Gene  AHI1  is found to be cancerous in  1  categories of cancer
+Gene  CCT7  is found to be cancerous in  1  categories of cancer
+Gene  DHX9  is found to be cancerous in  1  categories of cancer
+Gene  EPC2  is found to be cancerous in  1  categories of cancer
+Gene  BZW2  is found to be cancerous in  1  categories of cancer
+Gene  DDX56  is found to be cancerous in  1  categories of cancer
+Gene  MARCHF7  is not found to be cancerous
+Gene  IMP4  is found to be cancerous in  1  categories of cancer
+Gene  TXN  is found to be cancerous in  1  categories of cancer
+Gene  TMOD1  is found to be cancerous in  1  categories of cancer
+Gene  DPM2  is found to be cancerous in  1  categories of cancer
+Gene  KIF13A  is found to be cancerous in  1  categories of cancer
+Gene  YIPF3  is found to be cancerous in  1  categories of cancer
+Gene  PGBD1  is found to be cancerous in  1  categories of cancer
+Gene  ADAM10  is found to be cancerous in  1  categories of cancer
+Gene  PREB  is found to be cancerous in  1  categories of cancer
+Gene  KIF20B  is found to be cancerous in  1  categories of cancer
+Gene  ASCC1  is found to be cancerous in  1  categories of cancer
+Gene  RPS24  is found to be cancerous in  1  categories of cancer
+Gene  PPIG  is not found to be cancerous
+Gene  ITGAV  is not found to be cancerous
+Gene  BMP2K  is found to be cancerous in  1  categories of cancer
+Gene  SEPTIN11  is not found to be cancerous
+Gene  PPA2  is found to be cancerous in  1  categories of cancer
+Gene  GSTCD  is found to be cancerous in  1  categories of cancer
+Gene  MAPK8IP3  is found to be cancerous in  1  categories of cancer
+Gene  NDUFA9  is found to be cancerous in  1  categories of cancer
+Gene  ESD  is found to be cancerous in  1  categories of cancer
+Gene  NIPA2  is found to be cancerous in  1  categories of cancer
+Gene  SORD  is found to be cancerous in  1  categories of cancer
+Gene  SLC27A2  is found to be cancerous in  1  categories of cancer
+Gene  FANCI  is found to be cancerous in  1  categories of cancer
+Gene  FURIN  is not found to be cancerous
+Gene  UTP4  is not found to be cancerous
+Gene  NARF  is found to be cancerous in  1  categories of cancer
+Gene  SLC39A3  is found to be cancerous in  1  categories of cancer
+Gene  SAE1  is found to be cancerous in  1  categories of cancer
+Gene  RCN3  is found to be cancerous in  1  categories of cancer
+Gene  RPS8  is found to be cancerous in  1  categories of cancer
+Gene  CD53  is found to be cancerous in  1  categories of cancer
+Gene  POGK  is found to be cancerous in  1  categories of cancer
+Gene  DCAF6  is found to be cancerous in  1  categories of cancer
+Gene  FCGR2A  is found to be cancerous in  1  categories of cancer
+Gene  ISG20L2  is found to be cancerous in  1  categories of cancer
+Gene  XPR1  is found to be cancerous in  1  categories of cancer
+Gene  PRUNE1  is not found to be cancerous
+Gene  ECM1  is found to be cancerous in  1  categories of cancer
+Gene  TARS2  is found to be cancerous in  1  categories of cancer
+Gene  MCL1  is found to be cancerous in  1  categories of cancer
+Gene  DYRK3  is found to be cancerous in  1  categories of cancer
+Gene  PKLR  is found to be cancerous in  1  categories of cancer
+Gene  PPFIA4  is found to be cancerous in  1  categories of cancer
+Gene  GALM  is not found to be cancerous
+Gene  GOLGA4  is found to be cancerous in  1  categories of cancer
+Gene  ENOPH1  is found to be cancerous in  1  categories of cancer
+Gene  TBC1D7  is found to be cancerous in  1  categories of cancer
+Gene  TRIM41  is found to be cancerous in  1  categories of cancer
+Gene  TNFRSF21  is found to be cancerous in  1  categories of cancer
+Gene  NONO  is found to be cancerous in  1  categories of cancer
+Gene  IL2RG  is found to be cancerous in  1  categories of cancer
+Gene  PRPS1  is found to be cancerous in  1  categories of cancer
+Gene  MFHAS1  is not found to be cancerous
+Gene  STAR  is found to be cancerous in  1  categories of cancer
+Gene  PLPBP  is not found to be cancerous
+Gene  HAUS6  is not found to be cancerous
+Gene  GSN  is found to be cancerous in  1  categories of cancer
+Gene  ALAD  is found to be cancerous in  1  categories of cancer
+Gene  SURF4  is found to be cancerous in  1  categories of cancer
+Gene  GBGT1  is found to be cancerous in  1  categories of cancer
+Gene  PTGES2  is found to be cancerous in  1  categories of cancer
+Gene  SSRP1  is found to be cancerous in  1  categories of cancer
+Gene  MS4A3  is not found to be cancerous
+Gene  EI24  is found to be cancerous in  1  categories of cancer
+Gene  NUDT22  is found to be cancerous in  1  categories of cancer
+Gene  PPP4C  is found to be cancerous in  1  categories of cancer
+Gene  CCT5  is found to be cancerous in  1  categories of cancer
+Gene  SACS  is found to be cancerous in  1  categories of cancer
+Gene  RABGAP1L  is found to be cancerous in  1  categories of cancer
+Gene  HNRNPDL  is not found to be cancerous
+Gene  ANAPC1  is found to be cancerous in  1  categories of cancer
+Gene  CETN3  is not found to be cancerous
+Gene  CEBPG  is not found to be cancerous
+Gene  CHD1  is found to be cancerous in  1  categories of cancer
+Gene  TOMM70  is not found to be cancerous
+Gene  OBSCN  is found to be cancerous in  1  categories of cancer
+Gene  BUB3  is found to be cancerous in  1  categories of cancer
+Gene  CCDC173  is not found to be cancerous
+Gene  MRPL39  is not found to be cancerous
+Gene  CXXC1  is not found to be cancerous
+Gene  AZIN1  is found to be cancerous in  1  categories of cancer
+Gene  SAMSN1  is found to be cancerous in  1  categories of cancer
+Gene  NUP205  is found to be cancerous in  1  categories of cancer
+Gene  ADK  is not found to be cancerous
+Gene  PTDSS1  is found to be cancerous in  1  categories of cancer
+Gene  EEF1A1  is found to be cancerous in  1  categories of cancer
+Gene  DHRS4  is found to be cancerous in  1  categories of cancer
+Gene  ST3GAL2  is found to be cancerous in  1  categories of cancer
+Gene  TMEM268  is not found to be cancerous
+Gene  SLC45A3  is not found to be cancerous
+Gene  B4GALT3  is found to be cancerous in  1  categories of cancer
+Gene  CDC42SE2  is found to be cancerous in  1  categories of cancer
+Gene  IGF2BP1  is found to be cancerous in  1  categories of cancer
+Gene  PSMD4  is found to be cancerous in  1  categories of cancer
+Gene  AMFR  is not found to be cancerous
+Gene  DFFA  is found to be cancerous in  1  categories of cancer
+Gene  CSTB  is found to be cancerous in  1  categories of cancer
+Gene  GAB3  is found to be cancerous in  1  categories of cancer
+Gene  ZER1  is found to be cancerous in  1  categories of cancer
+Gene  TAOK1  is found to be cancerous in  1  categories of cancer
+Gene  LMNA  is not found to be cancerous
+Gene  SRSF2  is not found to be cancerous
+Gene  SENP3  is found to be cancerous in  1  categories of cancer
+Gene  FGF11  is found to be cancerous in  1  categories of cancer
+Gene  SNRNP25  is found to be cancerous in  1  categories of cancer
+Gene  TAL1  is found to be cancerous in  1  categories of cancer
+Gene  LAPTM5  is found to be cancerous in  1  categories of cancer
+Gene  TYW3  is found to be cancerous in  1  categories of cancer
+Gene  LRATD1  is not found to be cancerous
+Gene  KRTCAP2  is found to be cancerous in  1  categories of cancer
+Gene  RPL9  is found to be cancerous in  1  categories of cancer
+Gene  MTMR14  is found to be cancerous in  1  categories of cancer
+Gene  ELP6  is not found to be cancerous
+Gene  RNF168  is found to be cancerous in  1  categories of cancer
+Gene  APEH  is found to be cancerous in  1  categories of cancer
+Gene  RICTOR  is found to be cancerous in  1  categories of cancer
+Gene  TENT2  is not found to be cancerous
+Gene  SHROOM1  is not found to be cancerous
+Gene  COX6C  is found to be cancerous in  1  categories of cancer
+Gene  INTS8  is found to be cancerous in  1  categories of cancer
+Gene  HNRNPK  is found to be cancerous in  1  categories of cancer
+Gene  VCP  is found to be cancerous in  1  categories of cancer
+Gene  PCF11  is found to be cancerous in  1  categories of cancer
+Gene  ATP5F1C  is not found to be cancerous
+Gene  LARGE2  is not found to be cancerous
+Gene  TTC7B  is found to be cancerous in  1  categories of cancer
+Gene  PSMC3  is found to be cancerous in  1  categories of cancer
+Gene  TAF1D  is found to be cancerous in  1  categories of cancer
+Gene  GPT2  is found to be cancerous in  1  categories of cancer
+Gene  TPP1  is not found to be cancerous
+Gene  IDH3A  is found to be cancerous in  1  categories of cancer
+Gene  NDEL1  is found to be cancerous in  1  categories of cancer
+Gene  SAAL1  is found to be cancerous in  1  categories of cancer
+Gene  NEMP1  is not found to be cancerous
+Gene  YWHAB  is found to be cancerous in  1  categories of cancer
+Gene  MARS1  is not found to be cancerous
+Gene  URM1  is found to be cancerous in  1  categories of cancer
+Gene  OR51B5  is found to be cancerous in  1  categories of cancer
+Gene  TMEM145  is found to be cancerous in  1  categories of cancer
+Gene  KLK1  is found to be cancerous in  1  categories of cancer
+Gene  CDK2AP2  is found to be cancerous in  1  categories of cancer
+Gene  DDB1  is found to be cancerous in  1  categories of cancer
+Gene  POLR2G  is found to be cancerous in  1  categories of cancer
+Gene  SF1  is found to be cancerous in  1  categories of cancer
+Gene  NKIRAS2  is found to be cancerous in  1  categories of cancer
+Gene  DNAJC7  is found to be cancerous in  1  categories of cancer
+Gene  NT5DC2  is found to be cancerous in  1  categories of cancer
+Gene  PDHB  is not found to be cancerous
+Gene  RNF181  is found to be cancerous in  1  categories of cancer
+Gene  MAT2A  is not found to be cancerous
+Gene  INPP5D  is found to be cancerous in  1  categories of cancer
+Gene  XPO6  is found to be cancerous in  1  categories of cancer
+Gene  ZEB2  is found to be cancerous in  1  categories of cancer
+Gene  DCXR  is found to be cancerous in  1  categories of cancer
+Gene  HNRNPF  is found to be cancerous in  1  categories of cancer
+Gene  TRIM56  is found to be cancerous in  1  categories of cancer
+Gene  YWHAG  is not found to be cancerous
+Gene  UBB  is found to be cancerous in  1  categories of cancer
+Gene  LONRF2  is not found to be cancerous
+Gene  SERPINB9  is found to be cancerous in  1  categories of cancer
+Gene  STAT2  is not found to be cancerous
+Gene  NDUFA3  is found to be cancerous in  1  categories of cancer
+Gene  CLSTN1  is not found to be cancerous
+Gene  RPS21  is not found to be cancerous
+Gene  PPIH  is found to be cancerous in  1  categories of cancer
+Gene  ZNF131  is found to be cancerous in  1  categories of cancer
+Gene  HECTD4  is not found to be cancerous
+Gene  NAA20  is found to be cancerous in  1  categories of cancer
+Gene  MOB1B  is not found to be cancerous
+Gene  NUDT4  is found to be cancerous in  1  categories of cancer
+Gene  TOMM20  is found to be cancerous in  1  categories of cancer
+Gene  FBXO45  is found to be cancerous in  1  categories of cancer
+Gene  GNG5  is found to be cancerous in  1  categories of cancer
+Gene  CTSF  is found to be cancerous in  1  categories of cancer
+Gene  EXO1  is found to be cancerous in  1  categories of cancer
+Gene  NDUFA11  is found to be cancerous in  1  categories of cancer
+Gene  MRPS22  is found to be cancerous in  1  categories of cancer
+Gene  DDIT3  is not found to be cancerous
+Gene  KCNE3  is found to be cancerous in  1  categories of cancer
+Gene  ETV4  is not found to be cancerous
+Gene  SLC35A4  is not found to be cancerous
+Gene  DIRAS1  is found to be cancerous in  1  categories of cancer
+Gene  LMNB2  is found to be cancerous in  1  categories of cancer
+Gene  LRRC37A  is found to be cancerous in  1  categories of cancer
+Gene  WSB2  is found to be cancerous in  1  categories of cancer
+Gene  TYMS  is found to be cancerous in  1  categories of cancer
+Gene  FAM210A  is not found to be cancerous
+Gene  BET1L  is found to be cancerous in  1  categories of cancer
+Gene  NDUFV2  is found to be cancerous in  1  categories of cancer
+Gene  PLEC  is found to be cancerous in  1  categories of cancer
+Gene  EPM2AIP1  is found to be cancerous in  1  categories of cancer
+Gene  PTPN11  is found to be cancerous in  1  categories of cancer
+Gene  VWA1  is found to be cancerous in  1  categories of cancer
+Gene  DNHD1  is found to be cancerous in  1  categories of cancer
+Gene  ZFPM1  is found to be cancerous in  1  categories of cancer
+Gene  DCTPP1  is found to be cancerous in  1  categories of cancer
+Gene  MCFD2  is found to be cancerous in  1  categories of cancer
+Gene  SRP9P1  is not found to be cancerous
+Gene  D2HGDH  is not found to be cancerous
+Gene  GPR3  is found to be cancerous in  1  categories of cancer
+Gene  NOP10  is found to be cancerous in  1  categories of cancer
+Gene  MRPL41  is found to be cancerous in  1  categories of cancer
+Gene  CREB3L2  is found to be cancerous in  1  categories of cancer
+Gene  UBA7  is not found to be cancerous
+Gene  TEX19  is found to be cancerous in  1  categories of cancer
+Gene  C1orf116  is found to be cancerous in  1  categories of cancer
+Gene  C16orf72  is found to be cancerous in  1  categories of cancer
+Gene  COL18A1  is found to be cancerous in  1  categories of cancer
+Gene  SRPRA  is not found to be cancerous
+Gene  CNOT10  is found to be cancerous in  1  categories of cancer
+Gene  PYCR1  is found to be cancerous in  1  categories of cancer
+Gene  PTTG1IP  is found to be cancerous in  1  categories of cancer
+Gene  BCOR  is found to be cancerous in  1  categories of cancer
+Gene  TENT5C  is not found to be cancerous
+Gene  ALYREF  is not found to be cancerous
+Gene  MACC1  is not found to be cancerous
+Gene  PRKX  is found to be cancerous in  1  categories of cancer
+Gene  SMTN  is found to be cancerous in  1  categories of cancer
+Gene  PTP4A2  is found to be cancerous in  1  categories of cancer
+Gene  NDUFA12  is found to be cancerous in  1  categories of cancer
+Gene  OSBP2  is found to be cancerous in  1  categories of cancer
+Gene  NDUFA6  is found to be cancerous in  1  categories of cancer
+Gene  ANO9  is found to be cancerous in  1  categories of cancer
+Gene  FAF1  is found to be cancerous in  1  categories of cancer
+Gene  INPP5J  is not found to be cancerous
+Gene  MRPL30  is not found to be cancerous
+Gene  METTL7A  is found to be cancerous in  1  categories of cancer
+Gene  L3MBTL1  is not found to be cancerous
+Gene  PSMD13  is found to be cancerous in  1  categories of cancer
+Gene  EVI2B  is not found to be cancerous
+Gene  AIDA  is not found to be cancerous
+Gene  RPS23  is found to be cancerous in  1  categories of cancer
+Gene  ESPN  is found to be cancerous in  1  categories of cancer
+Gene  NAP1L1  is found to be cancerous in  1  categories of cancer
+Gene  MT1X  is found to be cancerous in  1  categories of cancer
+Gene  TET3  is found to be cancerous in  1  categories of cancer
+Gene  SPRY4  is found to be cancerous in  1  categories of cancer
+Gene  TUBB4B  is not found to be cancerous
+Gene  ZP3  is found to be cancerous in  1  categories of cancer
+Gene  GAGE2A  is found to be cancerous in  1  categories of cancer
+Gene  RPS2P46  is not found to be cancerous
+Gene  FAM217B  is not found to be cancerous
+Gene  SUPT5H  is found to be cancerous in  1  categories of cancer
+Gene  XRCC6  is found to be cancerous in  1  categories of cancer
+Gene  HDAC2  is found to be cancerous in  1  categories of cancer
+Gene  TRAPPC4  is found to be cancerous in  1  categories of cancer
+Gene  ANKRD36B  is found to be cancerous in  1  categories of cancer
+Gene  ACSL5  is found to be cancerous in  1  categories of cancer
+Gene  ABCB8  is found to be cancerous in  1  categories of cancer
+Gene  TRIM33  is found to be cancerous in  1  categories of cancer
+Gene  GSTK1  is found to be cancerous in  1  categories of cancer
+Gene  RPF2  is not found to be cancerous
+Gene  MIB2  is not found to be cancerous
+Gene  SSPO  is not found to be cancerous
+Gene  TFDP1  is found to be cancerous in  1  categories of cancer
+Gene  ZKSCAN8  is not found to be cancerous
+Gene  BAZ1A  is found to be cancerous in  1  categories of cancer
+Gene  RCSD1  is found to be cancerous in  1  categories of cancer
+Gene  MTOR  is found to be cancerous in  1  categories of cancer
+Gene  SMC5  is found to be cancerous in  1  categories of cancer
+Gene  TOP1  is found to be cancerous in  1  categories of cancer
+Gene  L1CAM  is found to be cancerous in  1  categories of cancer
+Gene  SNHG5  is found to be cancerous in  1  categories of cancer
+Gene  RNF5  is found to be cancerous in  1  categories of cancer
+Gene  MRPL38  is found to be cancerous in  1  categories of cancer
+Gene  SNHG32  is not found to be cancerous
+Gene  MSH5  is not found to be cancerous
+Gene  ABHD16A  is not found to be cancerous
+Gene  NFKBIL1  is found to be cancerous in  1  categories of cancer
+Gene  DHX16  is found to be cancerous in  1  categories of cancer
+Gene  PPP1R10  is found to be cancerous in  1  categories of cancer
+Gene  TRIM27  is found to be cancerous in  1  categories of cancer
+Gene  STAG3L1  is found to be cancerous in  1  categories of cancer
+Gene  GAGE1  is found to be cancerous in  1  categories of cancer
+Gene  TSN  is found to be cancerous in  1  categories of cancer
+Gene  MAGEA12  is found to be cancerous in  1  categories of cancer
+Gene  ARL2  is found to be cancerous in  1  categories of cancer
+Gene  RPLP0P6  is not found to be cancerous
+Gene  LEPROT  is found to be cancerous in  1  categories of cancer
+Gene  LBH  is found to be cancerous in  1  categories of cancer
+Gene  MYCBP  is found to be cancerous in  1  categories of cancer
+Gene  SMIM30  is not found to be cancerous
+Gene  HNRNPUL2  is not found to be cancerous
+Gene  FNIP1  is not found to be cancerous
+Gene  NUTM2A-AS1  is not found to be cancerous
+Gene  TSSC2  is not found to be cancerous
+Gene  ARL17B  is found to be cancerous in  1  categories of cancer
+Gene  HBBP1  is found to be cancerous in  1  categories of cancer
+Gene  GOLGA6L5P  is not found to be cancerous
+Gene  MCTS1  is found to be cancerous in  1  categories of cancer
+Gene  SNHG15  is not found to be cancerous
+Gene  GAS5  is found to be cancerous in  1  categories of cancer
+Gene  H3P6  is not found to be cancerous
+Gene  PSMB9  is found to be cancerous in  1  categories of cancer
+Gene  AQP1  is found to be cancerous in  1  categories of cancer
+Gene  ATP5MF  is not found to be cancerous
+Gene  SSX2  is found to be cancerous in  1  categories of cancer
+Gene  ARPC4  is found to be cancerous in  1  categories of cancer
+Gene  MTFP1  is not found to be cancerous
+Gene  SNHG3  is found to be cancerous in  1  categories of cancer
+Gene  MICAL3  is found to be cancerous in  1  categories of cancer
+Gene  MRPS31P5  is not found to be cancerous
+Gene  TMEM158  is found to be cancerous in  1  categories of cancer
+Gene  YJEFN3  is found to be cancerous in  1  categories of cancer
+Gene  MPV17L2  is found to be cancerous in  1  categories of cancer
+Gene  ATP6V1G2-DDX39B  is not found to be cancerous
+Gene  CSPG4P12  is not found to be cancerous
+Gene  LINC00662  is not found to be cancerous
+Gene  CORO7  is found to be cancerous in  1  categories of cancer
+Gene  TIMM23  is not found to be cancerous
+Gene  LINC01029  is not found to be cancerous
+Gene  BAHCC1  is found to be cancerous in  1  categories of cancer
+Gene  NBPF8  is not found to be cancerous
+Gene  GAGE2E  is not found to be cancerous
+Gene  ARHGAP23  is found to be cancerous in  1  categories of cancer
+Gene  U2AF1L5  is not found to be cancerous
+Gene  RN7SL1  is not found to be cancerous
+Gene  H2BC7  is not found to be cancerous
+Gene  MRPL45  is found to be cancerous in  1  categories of cancer
+Gene  OR51B2  is not found to be cancerous
+Gene  FAM138F  is found to be cancerous in  1  categories of cancer
+
+Further details about gene names in relation with cancers is given in enriched_data/cancer_gene_prediction.csv
+Rows indicate individual genes, columns indicate cancer category
+
+Use --help option if needed (e.g. python Predict_Diff_Expression.py --help)
