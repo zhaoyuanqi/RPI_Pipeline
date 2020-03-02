@@ -1,0 +1,6 @@
+tqdm==4.29.1
+pyyaml
+easydict==1.9
+requests==2.21.0
+pandas==0.23.4
+sklearn
