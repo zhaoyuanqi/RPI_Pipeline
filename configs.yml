@@ -1,0 +1,32 @@
+gene: 'KHDRBS1'
+
+cell: 'K562'
+
+assembly: 'GRCh38'
+
+raw:
+  raw_dir: 'raw_data'
+
+genome:
+  build: True
+  genome_dir: 'genome'
+  gtf_path: 'gencode.v33.annotation.gtf'
+  fasta_path: 'GRCh38.p13.genome.fa'
+  index_dir: 'index'
+
+samtools:
+  samtools_dir: 'samtools'
+
+peak:
+  peak_dir: 'peak'
+
+de:
+  build: True
+  de_dir: 'shrna_de'
+  fdr: 0.05
+
+cancer:
+  build: True
+  cancer_dir: 'cancer'
+  sample_path: 'sample_data.txt'
+
